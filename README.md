@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0238-product-of-array-except-self) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
