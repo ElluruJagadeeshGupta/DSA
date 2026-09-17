@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -62,8 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
