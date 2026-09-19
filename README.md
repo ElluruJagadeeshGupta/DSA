@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0500-keyboard-row) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0500-keyboard-row) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
