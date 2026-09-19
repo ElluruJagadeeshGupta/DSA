@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3871-count-commas-in-range-ii](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
