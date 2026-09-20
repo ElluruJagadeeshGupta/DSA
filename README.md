@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0500-keyboard-row) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
