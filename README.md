@@ -13,14 +13,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
