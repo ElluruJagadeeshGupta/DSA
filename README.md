@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0500-keyboard-row) |
+| [0844-backspace-string-compare](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Polygons
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
