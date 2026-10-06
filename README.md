@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0389-find-the-difference) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
