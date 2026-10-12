@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2235-add-two-integers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3871-count-commas-in-range-ii) |
