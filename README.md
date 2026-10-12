@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Polygons
 |  |
