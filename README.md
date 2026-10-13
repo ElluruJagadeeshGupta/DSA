@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1512-number-of-good-pairs](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0500-keyboard-row) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1512-number-of-good-pairs) |
 ## Stack
 |  |
 | ------- |
