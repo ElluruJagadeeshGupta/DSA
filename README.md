@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
