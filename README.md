@@ -90,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0032-longest-valid-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
