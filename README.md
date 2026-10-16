@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
