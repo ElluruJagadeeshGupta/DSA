@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1544-make-the-string-great) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
