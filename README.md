@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1544-make-the-string-great) |
+| [1678-goal-parser-interpretation](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
