@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1512-number-of-good-pairs) |
+| [1773-count-items-matching-a-rule](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1544-make-the-string-great) |
 | [1678-goal-parser-interpretation](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1678-goal-parser-interpretation) |
+| [1773-count-items-matching-a-rule](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
