@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2469-convert-the-temperature) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -254,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
