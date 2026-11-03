@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
