@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2540-minimum-common-value) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
