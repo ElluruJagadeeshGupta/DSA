@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [2236-root-equals-sum-of-children](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0844-backspace-string-compare](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -245,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0933-number-of-recent-calls](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0933-number-of-recent-calls](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -277,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0933-number-of-recent-calls) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
