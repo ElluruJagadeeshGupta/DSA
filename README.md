@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0268-missing-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0053-maximum-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1267-count-servers-that-communicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
