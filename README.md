@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -327,4 +329,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
