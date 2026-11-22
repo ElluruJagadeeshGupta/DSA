@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1544-make-the-string-great) |
 | [1678-goal-parser-interpretation](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ElluruJagadeeshGupta/DSA/tree/master/3498-reverse-degree-of-a-string) |
